@@ -1,0 +1,40 @@
+[33mcommit 278b93fbdb475614762cae12feb990352e2dbd5f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 82aa4f7 dc3a452
+Author: pepe <pepe46valen@gmail.com>
+Date:   Sun Jan 27 09:51:04 2019 +0100
+
+    Merge branch 'master' of https://github.com/Titoshark/teeest
+
+[33mcommit 82aa4f7b219bf81d4e309401ffa5b136885df845[m
+Author: pepe <pepe46valen@gmail.com>
+Date:   Sun Jan 27 09:34:45 2019 +0100
+
+    initial
+    
+    nuevo
+    
+    Update README.md
+
+[33mcommit dc3a452804f680402ab98b2b6f475b51b9f05773[m
+Author: Titoshark <41754411+Titoshark@users.noreply.github.com>
+Date:   Sun Jan 27 09:37:30 2019 +0100
+
+    Update README.md
+
+[33mcommit 9b866c73c37635e3d4803b6d7da976ff00cb1e74[m
+Author: pepe <pepe46valen@gmail.com>
+Date:   Sun Jan 27 09:37:01 2019 +0100
+
+    nuevo
+
+[33mcommit 66c9698a3ef0542135342c8cacf9fdd2714f3082[m
+Author: pepe <pepe46valen@gmail.com>
+Date:   Sun Jan 27 09:34:45 2019 +0100
+
+    initial
+
+[33mcommit 66641f44cc61fcbd81dbf1a16dd0a3e2c94d946e[m
+Author: Titoshark <41754411+Titoshark@users.noreply.github.com>
+Date:   Sun Jan 27 09:32:23 2019 +0100
+
+    Initial commit
